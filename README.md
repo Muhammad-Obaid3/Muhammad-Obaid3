@@ -2,11 +2,12 @@
 
 <p align="center">
   🎮 Software Engineer | 💻 MSc Computer Science Student | 🔍 Big Data, Intelligent Systems & Scalable Architectures
+  Feel free to reach out for any Freelance Projects.
 </p>
 <p align="center">
-Feel free to reach out for any Freelance Projects.
+
 <p/>
----
+
 
 ## 👨‍💻 About Me
 
