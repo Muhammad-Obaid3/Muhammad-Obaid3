@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a seasoned **Software Engineer** with over **8 years of experience** in developing interactive, cross-platform applications using **Unity and C#**, targeting Android, iOS, and WebGL platforms.
+I am an experienced **Software Engineer** with over **8 years of experience** in developing interactive, cross-platform applications/games using **Unity and C#**, targeting Android, iOS, and WebGL platforms.
 
 Currently, I’m pursuing my **Master’s degree in Computer Science and Technology** at **Ulster University, UK**, where I’m strengthening my expertise in:
 
