@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/9d618f19-c5bd-49cf-b0b8-ecdf34d8587e)" alt="Muhammad Obaid - Software Engineer Banner" />
-</p>
-
+![Image](https://github.com/user-attachments/assets/9d618f19-c5bd-49cf-b0b8-ecdf34d8587e)
 <h1 align="center">👋 Hi, I'm Muhammad Obaid</h1>
 
 <p align="center">
