@@ -43,8 +43,8 @@ I’m also actively working on academic and real-world projects and will soon sh
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadobaid&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadobaid&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-obaid3&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-obaid3&layout=compact&theme=dark" />
 </p>
 
 ---
