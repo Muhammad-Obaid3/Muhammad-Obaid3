@@ -20,6 +20,14 @@ I enjoy building performance-driven, maintainable, and intelligent software solu
 
 ---
 
+## 🔬 Ongoing Projects
+
+- 🧠 **Healthy Recipe Recommender Ontology** – Using OWL and Protégé for semantic dietary modeling  
+- 📊 **Student Behavior Analysis** – Hive + Zeppelin dashboards to visualize mobile phone impact on academic performance  
+- ☁️ **Scalable Learning Platform** – Built on .NET Core, React, Azure Pipelines, and Blob Storage
+
+---
+
 ## 🚀 Tech Stack & Tools
 
 ### 🧠 Game & Application Development  
