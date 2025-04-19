@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github_banner.png" alt="Muhammad Obaid - Software Engineer Banner" />
+  <img src="![Image](https://github.com/user-attachments/assets/9d618f19-c5bd-49cf-b0b8-ecdf34d8587e)" alt="Muhammad Obaid - Software Engineer Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Muhammad Obaid</h1>
