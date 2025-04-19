@@ -3,9 +3,9 @@
 <p align="center">
   🎮 Software Engineer | 💻 MSc Computer Science Student | 🔍 Big Data, Intelligent Systems & Scalable Architectures
 </p>
-<h3 align="center">
+<h4 align="center">
   Feel free to reach out for any Freelance Projects.
-<h3/>
+<h4/>
 
 
 ## 👨‍💻 About Me
