@@ -74,10 +74,9 @@ I enjoy building performance-driven, maintainable, and intelligent software solu
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-obaid3&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-obaid3&count_private=true&show_icons=true&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-obaid3&layout=compact&theme=dark" />
 </p>
-
 ---
 
 ## 📫 Let's Connect
