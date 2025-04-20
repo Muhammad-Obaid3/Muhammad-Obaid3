@@ -24,7 +24,7 @@ I enjoy building performance-driven, maintainable, and intelligent software solu
 
 ## 🔬 Ongoing Projects
 
-- 🧠 **Healthy Recipe Recommender Ontology** – Using OWL and Protégé for semantic dietary modeling  
+- 🧠 **Healthy Recipe Recommender Ontology** – Using OWL and Protégé for semantic dietary modeling  https://github.com/Muhammad-Obaid3/healthy-recipe-ontology
 - 📊 **Student Behavior Analysis** – Hive + Zeppelin dashboards to visualize mobile phone impact on academic performance  
 - ☁️ **Scalable Video Streaming Platform** – Built on CosmosDB, .NET Core, React, Azure Pipelines, and Blob Storage
 
